@@ -25,7 +25,10 @@ The inferences drawn for the 10 states are:
 * Lastly, North Carolina shows 51.60% in 1995 to 55.80% in 2010 to 55.86% in 2019
 From all these observations we can infer that over time, with improvements in resources to help smokers quit and new control laws in place, we can see from the prediction model that more number of people may stop smoking in the future.
 
-
-
+References:
+1. https://www.cdc.gov/tobacco/about/osh/state-fact-sheets/california/index.html
+2. https://chiefexecutive.net/the-10-top-states-by-gdp/
+3. https://www.kaggle.com/cdc/tobacco-use
+4. https://stackoverflow.com/
 
 
